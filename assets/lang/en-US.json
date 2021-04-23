@@ -1,0 +1,12 @@
+{
+    "home":{
+        "chatBurak":"ChatBurak",
+        "activity":"Activity",
+        "messages":"Messages"
+    },
+    "chat":{
+        "online":"Online",
+        "typeaMessage":"Type a message",
+        "date":"Today-16 Apr"
+    }
+}
